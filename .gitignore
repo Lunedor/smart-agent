@@ -1,0 +1,17 @@
+# Smart Agent
+# Local config & memory (may contain API keys)
+agentconfig.json
+agentmemory.json
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
