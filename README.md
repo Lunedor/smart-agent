@@ -1,3 +1,4 @@
+[![If you are a good person...](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/lunedor)
 # Smart Agent
 
 Smart Agent is a Windows PowerShell assistant that converts natural-language requests into a PowerShell command, returning a strict JSON response with `explanation` and `command`, and then asks for confirmation before running it.  
